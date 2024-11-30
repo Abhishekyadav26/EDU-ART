@@ -60,11 +60,11 @@ const NFTClaimer: React.FC<NFTClaimerPROps> = ({ recieverAddress, dropContract, 
                             onTransactionConfirmed={async ()=>{
                                 alert("NFT Claimed");
                             }}
-                        >Claim</TransactionButton>
+                        >Buy</TransactionButton>
                         </>
                     ):(
                         <p className="text-center mt-8">
-                            login to claim this nft
+                            login to Buy this nft
                         </p>
                     )}
                 </>
