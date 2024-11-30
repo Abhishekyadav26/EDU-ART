@@ -1,6 +1,13 @@
 
 ![tw-banner](https://github.com/user-attachments/assets/83b1fc45-d292-4521-a92e-7e1e3b69af3e)
 
+## link for edu chain testnet explorer
+
+ [here](https://edu-chain-testnet.blockscout.com/address/0x84386Af427963C93967a9BB5eDE07B03C1F316fF)
+
+### contract address :- 0x84386Af427963C93967a9BB5eDE07B03C1F316fF
+
+### blockchain network :-  Open Campus Codex
 
 ## Installation
 
